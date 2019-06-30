@@ -1,0 +1,4 @@
+#Sun Jun 30 12:26:29 IST 2019
+base.0=/home/chetan/Desktop/Flutter_beer_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
